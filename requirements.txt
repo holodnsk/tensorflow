@@ -1,0 +1,7 @@
+pip install keras -
+pip install matplotlib - визуализация кривых обучения
+pip install numpy -
+pip install pandas - помогает работать с табличнысми данными
+pip install sklearn - scikit learn для оценки качества модели, в ней много других моделей машинного обучения
+pip install seaborn - визуализация
+pip install tensorflow
